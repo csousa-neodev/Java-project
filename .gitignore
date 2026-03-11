@@ -1,21 +1,4 @@
-# Arquivos compilados
 *.class
-
-# Pastas de build
-/build
-/out
-/bin
-/target
-
-# Arquivos temporários
 *.log
 *.tmp
-
-# Configurações de IDE
-.idea/
-.vscode/
-*.iml
-
-# Sistema
-.DS_Store
-Thumbs.db
+*.DS_Store
