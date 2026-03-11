@@ -7,7 +7,7 @@ Projeto simples feito em Java para praticar entrada e saída de dados usando Sca
 
 ## Funcionalidades
 - Cadastro de nome
-- Cadastro de emai
+- Cadastro de email
 - Cadastro de CPF 
 - Exibição dos dados na tela
 
